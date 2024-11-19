@@ -89,17 +89,3 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/matveeva_tasha)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
-
-<br>
-
-## 🎒 Образование
-
-
-<br>
-<br>
-
-## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:mk7407863@gmail.com)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/matveeva_tasha)
-
-<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
