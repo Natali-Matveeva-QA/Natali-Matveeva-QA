@@ -1,5 +1,5 @@
 ## Привет！ 👋
-Меня зовут Натаья, я QA Engineer
+Меня зовут Натали, я QA Engineer
 
 ## 📊 Статистика
 
@@ -11,7 +11,7 @@
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Natali-Matveeva-QA
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=arctic&username=Natali-Matveeva-QA
 )
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
